@@ -1,4 +1,4 @@
-import cvPdf from './docs/Currículo - Eduardo Barbosa Silva.pdf'
+import cvPdf from './docs/Curriculo - Eduardo.pdf'
 
 export default function Corpo() {
     return (
@@ -142,7 +142,8 @@ function MapaCarreira() {
 
 function HardSkills() {
     const frontend = [
-        { name: "HTML/CSS", level: 75 },
+        { name: "HTML", level: 90 },
+        { name: "CSS", level: 90 },
         { name: "JavaScript", level: 60 },
         { name: "TypeScript", level: 70 },
         { name: "React", level: 70 },
@@ -150,7 +151,8 @@ function HardSkills() {
     ]
 
     const backend = [
-        { name: "C#/ASP.NET", level: 85 },
+        { name: "C#", level: 85 },
+        { name: "ASP.NET", level: 70 },
         { name: "SQL Server", level: 85 },
     ]
 
