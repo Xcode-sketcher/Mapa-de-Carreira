@@ -158,7 +158,10 @@ function HardSkills() {
 
     const outras = [
         "Git/GitHub", "Bash", "Powershell", "Figma",
-        "npm", "Excel", "Word", "Sheets", "Docs"
+        "npm", "Excel", "Word", "Sheets", "Docs",
+        "Jira", "Trello", "Planner", "Infraestrutura de TI",
+        "Suporte Técnico", "Rede de Computadores", "Gestão de Projetos",
+        "Governancia de TI"
     ]
     const idioma = [
         { name: "Inglês", level: "Avançado" },
